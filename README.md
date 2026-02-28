@@ -44,6 +44,14 @@ To define our MVP scope, we used a "Bullseye" mapping exercise. We placed the **
 ## 3. The Pitch & Business Case
 We synthesized our findings into a pitch deck, requesting **$3,000** for customer validation and early prototyping.
 
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/ENLIGHTEN%20PITCH%20DECK%20GIF.gif?raw=true" 
+       alt="pitchdeck" width="80%" />
+</p>
+
+
+
+
 ### 📄 [View the Full Pitch Deck (PDF)](./Enlighten%20Pitch%20Deck.pdf)
 
 *(Click the link above to view the full strategy)*
