@@ -1,12 +1,12 @@
 
 # Enlighten - AI-Powered Academic Platform for International Students
-- Product Manager: Apurva Dange | Arizona State University
-- Course: TEM 598 Systemic Design and Social Innovation
+- Product Manager: Apurva Dange 
+- Course: TEM 598 Systemic Design and Social Innovation | Arizona State University
 - Timeline: Aug 2024 – Dec 2024 | Outcome: 🏆 Seed Funding Secured
 
 <p align="center">
-  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/ENLIGHTEN%20PITCH%20DECK%20GIF.gif?raw=true" 
-       alt="Enlighten Pitch Deck" width="60%" />
+  <img src="./Win%20day%20Cheque.jpeg" 
+       alt="Seed Funding Cheque" width="60%" />
 </p>
 
 > *"Every international student I interviewed said the same thing in different words: I feel like everyone else already knows something I was never taught. That one insight became the entire product."*
