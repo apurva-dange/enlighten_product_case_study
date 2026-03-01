@@ -96,6 +96,12 @@ One of the most important decisions we made in this project was the pivot from t
 
 The total addressable market for international graduate students in the US is approximately 680,000 students. When you look at the breakdown by field, Engineering dominates at about 66% of the market. Our first instinct was to target Engineering because of the size. But when we did competitive analysis, Engineering students already had a relatively robust ecosystem of support tools: Chegg, Coursera, Khan Academy, and various coding bootcamp platforms all serve that space with reasonable depth.
 
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/market.png?raw=true" 
+       alt="students" width="70%" />
+</p>
+
+
 Finance and Management students represented 22% of the market, which is still a substantial number, but more importantly they had a specific, high-pain problem (GAAP vs IFRS, US financial modeling frameworks, accounting standards) with almost no purpose-built solution. That is a Blue Ocean position, meaning we could enter with a focused product and face minimal direct competition rather than fighting for attention in a crowded space.
 
 The business model we designed around this is a B2C Freemium structure. Free tier users get access to static, pre-cached syllabus structures and basic gap assessment. Premium tier users get dynamic, real-time AI-generated adaptive content and the live transcription feature. This tiering was not arbitrary, it was a direct response to the cost structure of the underlying technology, which I will explain in the learnings section.
