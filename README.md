@@ -1,12 +1,12 @@
 
 # Enlighten - AI-Powered Academic Platform for International Students
-#### Product Manager: Apurva Dange | Arizona State University
-#### Course: TEM 598 Systemic Design and Social Innovation
-#### Timeline: Aug 2024 – Dec 2024 | Outcome: 🏆 Seed Funding Secured
+- Product Manager: Apurva Dange | Arizona State University
+- Course: TEM 598 Systemic Design and Social Innovation
+- Timeline: Aug 2024 – Dec 2024 | Outcome: 🏆 Seed Funding Secured
 
 <p align="center">
   <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/ENLIGHTEN%20PITCH%20DECK%20GIF.gif?raw=true" 
-       alt="Enlighten Pitch Deck" width="80%" />
+       alt="Enlighten Pitch Deck" width="60%" />
 </p>
 
 > *"Every international student I interviewed said the same thing in different words: I feel like everyone else already knows something I was never taught. That one insight became the entire product."*
@@ -16,6 +16,11 @@
 Enlighten is an AI-driven educational platform I built as a Product Manager from zero to seed funding in one semester. The core idea is this: when an international student arrives at a US university for a graduate program, they walk into classrooms where professors assume a baseline of knowledge that was never taught in their home country's curriculum. Nobody tells them this gap exists. They find out the hard way, usually during the first exam.
 
 Enlighten solves this by acting as "a Professor in your pocket." It assesses each student's specific knowledge gaps on arrival, generates a personalized learning path to fill those gaps, and provides real-time transcription support so students can actually understand what their professors are saying without the compounding stress of processing an unfamiliar accent while also trying to absorb new material.
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/Students.png?raw=true" 
+       alt="students" width="50%" />
+</p>
 
 In this project I owned the full product lifecycle: user research, persona development, market sizing, competitive analysis, feature prioritization, pitch strategy, and stakeholder presentation. We presented to a real investment committee, competed against other student teams, and secured first place along with seed funding from the Social Innovation Startup Lab, which is sponsored by Intel.
 
