@@ -35,6 +35,13 @@ When I mapped both of these problems together, the picture became clear: interna
 
 I want to be honest about how this project started. The initial hypothesis was vague. We knew international students struggled, but we did not know exactly where, why, or when the struggle happened in a way that a product could address. So before we built anything or defined any features, we went and talked to real people.
 
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/Gemini_Generated_Image_vb09lgvb09lgvb09.png" 
+       alt="Customer Journey Map — Mayur's Experience" width="80%" />
+</p>
+
+
 We conducted interviews with more than 50 international graduate students, specifically focusing on Finance and Business programs. I designed the interview questions to be open-ended and non-leading, for the same reason I talked about in the Anna.ai project: if you ask someone "do you find it hard to keep up in class?" they will say yes because that is a leading question. Instead we asked things like "walk me through what your first week of classes felt like" and "tell me about a moment when you felt completely lost and what you did about it." Those questions get you to the real story.
 
 After 50 interviews, the patterns were consistent enough that we could build a reliable primary persona.
