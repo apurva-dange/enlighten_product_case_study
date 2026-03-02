@@ -17,12 +17,9 @@ Enlighten is an AI-driven educational platform I built as a Product Manager from
 
 Enlighten solves this by acting as "a Professor in your pocket." It assesses each student's specific knowledge gaps on arrival, generates a personalized learning path to fill those gaps, and provides real-time transcription support so students can actually understand what their professors are saying without the compounding stress of processing an unfamiliar accent while also trying to absorb new material.
 
-<p align="center">
-  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/Students.png?raw=true" 
-       alt="students" width="50%" />
-</p>
-
 In this project I owned the full product lifecycle: user research, persona development, market sizing, competitive analysis, feature prioritization, pitch strategy, and stakeholder presentation. We presented to a real investment committee, competed against other student teams, and secured first place along with seed funding from the Social Innovation Startup Lab, which is sponsored by Intel.
+
+
 
 **What this project covers:** User Research and Interviews → Customer Journey Mapping → Stakeholder Ecosystem Mapping → Market Sizing and Competitive Analysis → Feature Prioritization → Business Model Design → Pitch Deck and Funding Secured
 
