@@ -30,9 +30,19 @@ In this project I owned the full product lifecycle: user research, persona devel
 
 When I first started researching this space, I thought the problem was straightforward: international students struggle academically because of language barriers. That turned out to be a surface-level read.
 
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/ACCENT%20BARRIERS.png?raw=true" 
+       alt="MEME" width="50%" />
+</p>
+
 The real problem is something I started calling "assumed competencies." US graduate programs are built on the assumption that students arrive with specific foundational knowledge, particularly in fields like Finance and Business. Professors do not teach this foundation because they believe it was covered in undergrad. But if your undergrad was in India, Brazil, or China, the curriculum was structured completely differently. You might have never been taught GAAP accounting standards, or the specific analytical frameworks used in US financial modeling. Nobody tells you this gap exists when you enroll. You discover it in real time, in a classroom, surrounded by domestic students who seem to understand everything.
 
 The second layer is the accent barrier. This is something almost no edtech product addresses directly. When a professor who has been teaching for 20 years speaks quickly in a regional American accent, and the student is simultaneously trying to parse the language and understand the concept, the cognitive load is enormous. Students fall behind not because they are not smart enough but because they are spending processing capacity on decoding language that a domestic student processes automatically.
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/WAITWHAT.png?raw=true" 
+       alt="MEME" width="30%" />
+</p>
 
 When I mapped both of these problems together, the picture became clear: international students are not failing because of effort or intelligence. They are failing because the system was never designed with them in mind, and nobody built a tool that closed that specific gap.
 
