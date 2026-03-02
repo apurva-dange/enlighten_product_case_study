@@ -19,6 +19,10 @@ Enlighten solves this by acting as "a Professor in your pocket." It assesses eac
 
 In this project I owned the full product lifecycle: user research, persona development, market sizing, competitive analysis, feature prioritization, pitch strategy, and stakeholder presentation. We presented to a real investment committee, competed against other student teams, and secured first place along with seed funding from the Social Innovation Startup Lab, which is sponsored by Intel.
 
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/mastt.png" 
+       alt="Seed Funding Cheque" width="50%" />
+</p>
 
 
 **What this project covers:** User Research and Interviews → Customer Journey Mapping → Stakeholder Ecosystem Mapping → Market Sizing and Competitive Analysis → Feature Prioritization → Business Model Design → Pitch Deck and Funding Secured
@@ -49,8 +53,8 @@ I want to be honest about how this project started. The initial hypothesis was v
 
 
 <p align="center">
-  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/Gemini_Generated_Image_vb09lgvb09lgvb09.png" 
-       alt="Customer Journey Map — Mayur's Experience" width="80%" />
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/going%20to%20uni.png" 
+       alt="Customer Journey Map — Mayur's Experience" width="60%" />
 </p>
 
 
